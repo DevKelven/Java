@@ -26,6 +26,9 @@
             <a class="nav-link" href="/curso">Curso</a>
           </li>		  				  
           <li class="nav-item">
+            <a class="nav-link" href="/contato">Contato</a>
+          </li>		  				  
+          <li class="nav-item">
             <a class="nav-link" href="/cadastro">Cadastro</a>
           </li>		  				  
           <li class="nav-item dropdown">
